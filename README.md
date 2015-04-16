@@ -871,6 +871,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [python-statsd](https://github.com/WoLpH/python-statsd) - Python Client for the [statsd](https://github.com/etsy/statsd/) server.
 * [memory_profiler](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code.
 * [profiling](https://github.com/what-studio/profiling) - An interactive Python profiler.
+* [yappi](https://pypi.python.org/pypi/yappi) - Yet Another Python Profiler, but this time support Multithread/CPU time profiling
 * [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar) - Display various debug information about the current request/response.
 * [django-devserver](https://github.com/dcramer/django-devserver) - A drop-in replacement for Django's runserver.
 * [flask-debugtoolbar](https://github.com/mgood/flask-debugtoolbar) - A port of the django-debug-toolbar to flask.
